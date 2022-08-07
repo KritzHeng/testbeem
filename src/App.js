@@ -13,9 +13,9 @@ function App() {
     <Particle />
     <Navbar />
     <Routes>
-      <Route path='/' element={<Header/>}/>
-      <Route path='/Aboutme' element={<Aboutme/>}/>
-      <Route path='/Myproject' element={<Myproject/>}/>
+      <Route path='/testbeem' element={<Header/>}/>
+      <Route path='/testbeem/Aboutme' element={<Aboutme/>}/>
+      <Route path='/testbeem/Myproject' element={<Myproject/>}/>
     </Routes>
     {/* <Header/> */}
     </>
