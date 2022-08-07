@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.760b4642.css",
-    "main.js": "/static/js/main.603bdff9.js",
-    "static/js/787.202b8111.chunk.js": "/static/js/787.202b8111.chunk.js",
-    "static/media/wire1.PNG": "/static/media/wire1.0433f75f2e3580aa11da.PNG",
-    "static/media/etherscan_1.PNG": "/static/media/etherscan_1.518fa3dcadff16a524f2.PNG",
-    "static/media/pyExcel.PNG": "/static/media/pyExcel.6bb84428907a2cac621a.PNG",
-    "static/media/contract_1.PNG": "/static/media/contract_1.d1f78f197473baebff4d.PNG",
-    "index.html": "/index.html",
-    "main.760b4642.css.map": "/static/css/main.760b4642.css.map",
-    "main.603bdff9.js.map": "/static/js/main.603bdff9.js.map",
-    "787.202b8111.chunk.js.map": "/static/js/787.202b8111.chunk.js.map"
+    "main.css": "/testbeem/static/css/main.760b4642.css",
+    "main.js": "/testbeem/static/js/main.d67b9505.js",
+    "static/js/787.202b8111.chunk.js": "/testbeem/static/js/787.202b8111.chunk.js",
+    "static/media/wire1.PNG": "/testbeem/static/media/wire1.0433f75f2e3580aa11da.PNG",
+    "static/media/etherscan_1.PNG": "/testbeem/static/media/etherscan_1.518fa3dcadff16a524f2.PNG",
+    "static/media/pyExcel.PNG": "/testbeem/static/media/pyExcel.6bb84428907a2cac621a.PNG",
+    "static/media/contract_1.PNG": "/testbeem/static/media/contract_1.d1f78f197473baebff4d.PNG",
+    "index.html": "/testbeem/index.html",
+    "main.760b4642.css.map": "/testbeem/static/css/main.760b4642.css.map",
+    "main.d67b9505.js.map": "/testbeem/static/js/main.d67b9505.js.map",
+    "787.202b8111.chunk.js.map": "/testbeem/static/js/787.202b8111.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.760b4642.css",
-    "static/js/main.603bdff9.js"
+    "static/js/main.d67b9505.js"
   ]
 }
