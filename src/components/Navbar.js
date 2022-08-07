@@ -17,10 +17,8 @@ const Navbar = () => {
                 <FontAwesomeIcon icon={faBars} style={{color: "#ffff"}} />
             </button>
             <Typed className='typed-text'
-            strings={['Welcome','to','myportfolio!']}
+            strings={['myportfolio!']}
             typeSpeed={120}
-            backSpeed={60}
-            loop
             />
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul className="navbar-nav ml-auto">

@@ -14,6 +14,7 @@ body {
 }
 /************MENU*************/
  
+
 nav a.nav-link {
   /* font-weight: 500; */
   /* letter-spacing: 0.0375px; */
@@ -52,15 +53,17 @@ nav ul li {
   /* background: url(web_bg.png) no-repeat;
   background-size: cover;
   background-position: center; */
-  height: 90vh;
+  height: 50vh;
 }
 .main-info{
+  /* height: 70vh; */
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
   font-family: "Roboto Condesed",sans-serif;
+  
 }
 
 .main-info h1{
@@ -70,6 +73,13 @@ nav ul li {
 .typed-text{
   font-size: 2rem;
   color: var(--primary-white);
+}
+.typed-home {
+  font-size: 3rem;
+  color: var(--primary-white);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  display: inline-block;
+  /* margin-bottom: 16px; */
 }
 
 .HeaderTask{
@@ -102,4 +112,29 @@ canvas {
 .card-img-top{
   height: 50vh;
   width: 50vh;
+}
+/* .card{
+  border-radius: 10%;
+} */
+
+.banner-section{
+  padding: 80px 0;
+  min-height: 680px;
+  background-color: rgb(33, 148, 98);
+  /* opacity: 0.93; */
+  border-radius: 10%;
+}
+/* .banner-bg{
+
+} */
+/* 
+.container{
+  --bs-guteter-x: 15px;
+  max-width: 1140px;
+}
+.row{
+  --bs-gutter-x: 30px;
+} */
+.aboutme{
+  background: rgb(195, 124, 124);
 }

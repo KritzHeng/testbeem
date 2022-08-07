@@ -22,13 +22,13 @@ const Particle = () => {
         },
         links: {
           color: "#ffffff",
-          distance: 150,
+          distance: 100,
           enable: true,
           opacity: 0.5,
           width: 1,
         },
         collisions: {
-          enable: true,
+          enable: false,
         },
         move: {
           direction: "none",
@@ -37,7 +37,7 @@ const Particle = () => {
             default: "bounce",
           },
           random: false,
-          speed: 2,
+          speed: 1,
           straight: false,
         },
         number: {
